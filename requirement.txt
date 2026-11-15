@@ -1,0 +1,6 @@
+tensorflow
+mlflow
+dagshub
+pandas
+numpy
+matplotlib
